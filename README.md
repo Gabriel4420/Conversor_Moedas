@@ -27,7 +27,7 @@
 
 <p align="center">
   <img alt="Gif da Aplicação" src="assets/HomeApp.png" heigth=800 width=400 />
-  <img alt="Gif da Aplicação" src="assets/HomeAppDark.png" heigth=800 width=400 />
+  <img alt="Gif da Aplicação" src="assets/HomeAppDark.png" heigth=800 width=380 />
 </p>
 
 ---
