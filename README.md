@@ -95,8 +95,6 @@ Para copiar o projeto, utilize os comandos:
   # Clonar o repositório
   ❯ git clone https://github.com/Gabriel4420/Conversor_Moedas.git
 
-  # Entrar no diretório
-  ❯ cd calculadora_imc 
 ```
 Para instalar as dependências e iniciar o projeto, você pode utilizar o flutter ou pub:
 
