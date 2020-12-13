@@ -34,12 +34,12 @@
 
 # Indice
 
-- :rocket: [Sobre o Projeto](#rocket-sobre-o-projeto)
+- &#x1F4B0; [Sobre o Projeto](#rocket-sobre-o-projeto)
 - 👨‍💻️ [Tecnogias utilizadas](#%EF%B8%8F-tecnogias-utilizadas)
 - 📦️ [Como utilizar o projeto](#%EF%B8%8F-como-utilizar-o-projeto)
 ---
 
-## :rocket: Sobre o Projeto
+## &#x1F4B0; Sobre o Projeto
 
 A proposta do conversor de moedas, é calcular e converter apartir de uma api, o valor das moedas: <strong>Real</strong>,<strong>Dolar</strong> e <strong>Euro</strong>.
 
@@ -59,8 +59,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ### Padronização de código
 
-  - [ESLint](https://eslint.org/)
-  - [Prettier](https://prettier.io/)
   - :mouse: [Editor Config](https://editorconfig.org/)
 
 ### IDE
@@ -121,11 +119,14 @@ Para instalar as dependências e iniciar o projeto, você pode utilizar o flutte
 *PS: utilize o pub get, para atualizar as dependências, tome cuidado, pois dependendo da versão da dependência, pode ser que o projeto não funcione como o esperado.*
 
 ```bash
-  # Atualizar as dependências
+   # Atualizar as dependências
   ❯ flutter pub get
 
   # Iniciar o projeto
   ❯ flutter run -d chrome
+  
+  # Build para android
+  ❯ flutter build apk
 ```
 
 ---
